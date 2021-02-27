@@ -9,4 +9,10 @@ surprise
 sklearn
 copy
 
+The following .csv files must be in the current working directory:
+links.csv
+movies.csv
+ratings.csv
+tags.csv
+
 Please run code blocks sequentially, as there are dependencies.
