@@ -1,0 +1,12 @@
+Requirements: Jupyter Notebook, Python 3.7+
+
+Packages: 
+numpy
+random
+pandas
+matplotlib
+surprise
+sklearn
+copy
+
+Please run code blocks sequentially, as there are dependencies.
