@@ -1,0 +1,31 @@
+Our code is divided between multiple files:
+Project_4.ipynb
+Project_4_Polynomial_questions.ipynb (questions 14-16)
+
+
+For each file, the source data files must be located appropriately in subfolders of the current working directory.
+Cells must also be run in order due to dependencies.
+
+The following pacakges are used in each file:
+Project_4.ipynb
+	* pandas
+	* numpy
+	* pandas_profiling
+	* seaborn
+	* matplotlib
+	* pycountry_convert
+	* sklearn
+	* scipy
+	* lightgbm
+	* skopt
+	* warnings
+	* catboost
+	* pickle
+	
+Project_4_Polynomial_questions.ipynb
+	* pandas
+	* numpy
+	* io
+	* pycountry_convert
+	* sklearn
+	* copy
