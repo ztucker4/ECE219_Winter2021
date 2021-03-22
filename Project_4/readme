@@ -16,7 +16,7 @@ Project_4.ipynb
 	* pycountry_convert
 	* sklearn
 	* scipy
-	* lightbm
+	* lightgbm
 	* skopt
 	* warnings
 	* catboost
